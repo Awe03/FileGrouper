@@ -1,0 +1,27 @@
+# Tauri build outputs
+src-tauri/target/
+
+# Node
+node_modules/
+dist/
+.pnpm-store/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
