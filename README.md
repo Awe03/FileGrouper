@@ -22,6 +22,14 @@ Click to expand groups, click files to open with default app.
 -   Clean, minimal UI
 -   No analytics or advertising
 
+## Updates
+
+We respect your privacy. File Grouper does not query for updates.
+
+To stay notified of new releases:
+- Star/Watch this repo on GitHub, or
+- Subscribe to the [releases feed](https://github.com/Awe03/FileGrouper/releases.atom)
+
 ## Build from source
 
 ```bash
