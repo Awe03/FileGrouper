@@ -1,5 +1,8 @@
 # File Grouper
 
+[![Build](https://github.com/Awe03/FileGrouper/actions/workflows/build.yml/badge.svg)](https://github.com/Awe03/FileGrouper/actions/workflows/build.yml)
+[![Release](https://github.com/Awe03/FileGrouper/actions/workflows/release.yml/badge.svg)](https://github.com/Awe03/FileGrouper/actions/workflows/release.yml)
+
 A simple file browser that groups files by common prefixes.
 
 ## Overview
